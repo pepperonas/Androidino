@@ -1,11 +1,11 @@
-# Androidino
+# Androidino / bluetooth
 
 This app shows serial data communication between Android and an Arduino. 
 
 
 ## Showcase
 
-[YouTube-Video](https://www.youtube.com/watch?v=D3FFxTR4bGA "Showcase")
+[YouTube-Video](https://youtu.be/D3FFxTR4bGA "Showcase")
 
 
 ## Features
