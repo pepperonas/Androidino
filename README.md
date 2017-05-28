@@ -5,7 +5,7 @@ Android meets Arduino.
 
 ## Showcase
 
-[YouTube-Video](hhttps://youtu.be/D3FFxTR4bGA "Showcase")
+[YouTube-Video](https://youtu.be/D3FFxTR4bGA "Showcase")
 
 
 ## Content
